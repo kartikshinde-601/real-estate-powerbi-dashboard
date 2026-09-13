@@ -12,7 +12,6 @@ A Power BI dashboard built using Real Estate Sales Data to analyze property sale
 - Total Properties Sold
 - Average Price per SqFt
 - Highest Sale Value
-- Year-over-Year Sales Growth %
 
 ## 📊 Dashboard Pages
 
