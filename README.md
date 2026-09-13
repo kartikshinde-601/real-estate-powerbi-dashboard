@@ -41,13 +41,13 @@ A Power BI dashboard built using Real Estate Sales Data to analyze property sale
 ![Sales Overview](01-sales-overview.png)
 
 ### Matrix Analysis
-![Matrix Analysis](screenshots/02-matrix-analysis.png)
+![Matrix Analysis](02-matrix-analysis.png)
 
 ### Agent Performance
-![Agent Performance](screenshots/03-agent-performance.png)
+![Agent Performance](03-agent-performance.png)
 
 ### City Tooltip
-![City Tooltip](screenshots/04-city-tooltip.png)
+![City Tooltip](04-city-tooltip.png)
 
 ## 🛠️ Tools Used
 - Power BI Desktop
