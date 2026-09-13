@@ -38,7 +38,7 @@ A Power BI dashboard built using Real Estate Sales Data to analyze property sale
 ## 🖼️ Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](screenshots/01-sales-overview.png)
+![Sales Overview](01-sales-overview.png)
 
 ### Matrix Analysis
 ![Matrix Analysis](screenshots/02-matrix-analysis.png)
